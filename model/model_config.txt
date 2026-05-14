@@ -1,0 +1,3 @@
+TARGET_SIZE=(64, 64)
+CLASS_LABELS=['no_tumor', 'tumor']
+THRESHOLD=0.5
